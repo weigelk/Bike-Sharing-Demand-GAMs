@@ -1,1 +1,3 @@
-# Bike-Sharing-Demand-GAMs
+# Seoul bike sharing demand prediction with GAMs
+
+The objective of this project is to use generalized additive models to predict bike sharing demand in a public bike rental system in Seoul, Korea. First we will introduce generalized linear models and generalized additive models as a more flexible alternative to generalized linear models for modeling data with with non-gaussian response variable. Then we will apply these models to the Seoul bike sharing data. We will compare different models, utilizing the root mean squared error and the mean absolute error metrics.
